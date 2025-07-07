@@ -1,0 +1,6 @@
+|  |  |  |
+| --- | --- | --- |
+| ![](../image/common/uec_header1.jpg) | | |
+| [ホーム](../index.html) | [総合案内「電通大の黎明期」](../dawn/dawn01.html) | [展示案内](../exhibit/exhibit01.html) | [研究資料アーカイブ](../archive/archive01.html) | [時事フォーラム](http://www.texnai.co.jp/uec_muse7/proposal/) | [関連リンク](../link/link01.html) | [第７展示室について](../about/about.html) | [本HPについて](../about/about2.html) |  アクセス | | |
+| |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | | |  | | --- | | [![](image/chofustation_s.jpg)](image/chofustation.jpg) | | 京王線調布駅北口ロータリー |  ---  |  | | --- | | [![](image//uec_hall_s.jpg)](image/uec_hall.jpg) | | 甲州街道から見た電気通信大学ホール |  ---  |  | | --- | | [![](image/uec_muse_s.jpg)](image/uec_muse.jpg) | | コミュニケーション・ミュージアム棟 | | | |  |  |  |  |  | | --- | --- | --- | --- | --- | | 電気通信大学 コミュニケーション・ミュージアム へのアクセス        |  | | --- | | ![](image/uec_map.jpg) | | 甲州街道沿いの正門 までは京王線調布駅北口下車で徒歩約5分 |  ---  |  | | --- | | ![](image/uecmuse_map.jpg) | | ミュージアムは東キャンパスの一番奥です。 |     ■ 電車をご利用の場合：  京王線調布駅北口下車、コミュニケーション・ミュージアムまでは徒歩で約15分ほどです。     ■ 車でいらっしゃる場合：  中央高速道調布インターチェンジから甲州街道を新宿方向に約300m。 | |
+| |  | | --- | | ![](../image/common/spacer.gif)   電気通信大学コミュニケーション・ミュージアム第７展示室友の会  東京都町田市玉川学園6-3-100  UEC Museum of Communications Exhibition Room#7 Associates  e-mail: uecmuse@muse.or.jp  Copyright all reserved by UEC Museum of Communications Exhibition Room#7 Associates | | |

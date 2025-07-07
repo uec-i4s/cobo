@@ -1,0 +1,7 @@
+[global]
+disallow_patterns = ["\\.jpg$"]
+
+[[sites]]
+domain = "www.muse.or.jp"
+start_paths = ["/uec_muse7/dawn/dawn01.html"]
+# disallow_patterns = ["/eng/.*"]
