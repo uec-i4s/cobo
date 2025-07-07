@@ -1,22 +1,12 @@
-# Sensitive files
-.env
-.env.*
-*.key
-*.pem
-*.p12
-*.pfx
-credentials.json
-secrets.json
-config.json
-.server_config
-search_server.pid
-search.db
-*.log
-.DS_Store
+# Byte-compiled / optimized / DLL files
 __pycache__/
-*.pyc
-*.pyo
-*.pyd
+*.py[codz]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
 .Python
 build/
 develop-eggs/
@@ -30,21 +20,57 @@ parts/
 sdist/
 var/
 wheels/
+share/python-wheels/
 *.egg-info/
 .installed.cfg
 *.egg
 MANIFEST
-.venv/
-venv/
-ENV/
-env/
-.coverage
-.pytest_cache/
-.mypy_cache/
+
+# Unit test / coverage reports
+htmlcov/
 .tox/
 .nox/
-htmlcov/
-.git/
-*.sqlite
-*.sqlite3
-*.db
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py.cover
+.hypothesis/
+.pytest_cache/
+cover/
+
+# PEP 582; used by e.g. github.com/David-OConnor/pyflow and github.com/pdm-project/pdm
+__pypackages__/
+
+# Environments
+.env
+.envrc
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Analyzer
+.mypy_cache/
+.dmypy.json
+dmypy.json
+.pyre/
+.pytype/
+.ruff_cache/
+
+# Cython debug symbols
+cython_debug/
+
+# Editor
+.idea/
+.abstra/
+.vscode/
+.cursorignore
+.cursorindexingignore
+
+# PyPI configuration file
+.pypirc
